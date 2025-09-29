@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Der Sonnenwirt</title>
-               <author ref="authors.xml/#P5">Kurz, Hermann</author>
+               <author ref="authors.xml#P5">Kurz, Hermann</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

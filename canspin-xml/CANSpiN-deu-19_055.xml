@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Die gute Schule</title>
-               <author ref="authors.xml/#P29">Bahr, Hermann</author>
+               <author ref="authors.xml#P29">Bahr, Hermann</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

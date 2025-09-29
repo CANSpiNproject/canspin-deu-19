@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Der Lehnhold</title>
-               <author ref="authors.xml/#P2">Auerbach, Berthold</author>
+               <author ref="authors.xml#P2">Auerbach, Berthold</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Jons und Erdme</title>
-               <author ref="authors.xml/#P51">Sudermann, Hermann</author>
+               <author ref="authors.xml#P51">Sudermann, Hermann</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

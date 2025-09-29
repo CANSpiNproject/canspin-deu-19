@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Die Leute aus dem Walde, ihre Sterne, Wege und Schicksale</title>
-               <author ref="authors.xml/#P19">Raabe, Wilhelm</author>
+               <author ref="authors.xml#P19">Raabe, Wilhelm</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

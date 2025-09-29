@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Adam Mensch</title>
-               <author ref="authors.xml/#P30">Conradi, Hermann</author>
+               <author ref="authors.xml#P30">Conradi, Hermann</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

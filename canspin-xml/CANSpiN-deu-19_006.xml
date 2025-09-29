@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Fragment eines Romans</title>
-               <author ref="authors.xml/#P6">Weerth, Georg</author>
+               <author ref="authors.xml#P6">Weerth, Georg</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

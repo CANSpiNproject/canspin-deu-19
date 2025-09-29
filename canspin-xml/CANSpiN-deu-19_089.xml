@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Die Abendburg</title>
-               <author ref="authors.xml/#P49">Wille, Bruno</author>
+               <author ref="authors.xml#P49">Wille, Bruno</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

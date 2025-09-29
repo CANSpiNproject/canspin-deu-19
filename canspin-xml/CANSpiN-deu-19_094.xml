@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Der Weg ins Freie</title>
-               <author ref="authors.xml/#P50">Schnitzler, Arthur</author>
+               <author ref="authors.xml#P50">Schnitzler, Arthur</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

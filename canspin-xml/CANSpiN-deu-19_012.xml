@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Aus dem Leben einer Frau</title>
-               <author ref="authors.xml/#P7">Aston, Louise</author>
+               <author ref="authors.xml#P7">Aston, Louise</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

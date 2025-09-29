@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Caspar Hauser</title>
-               <author ref="authors.xml/#P40">Wassermann, Jakob</author>
+               <author ref="authors.xml#P40">Wassermann, Jakob</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>

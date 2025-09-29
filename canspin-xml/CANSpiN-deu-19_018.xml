@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Anna</title>
-               <author ref="authors.xml/#P12">Schopenhauer, Adele</author>
+               <author ref="authors.xml#P12">Schopenhauer, Adele</author>
                <respStmt>
                   <name>Marc Lemke</name>
                   <resp>Editor</resp>
