@@ -1,3 +1,4 @@
+![version](https://img.shields.io/badge/version-0.5.0-blue)
 [![DOI](https://zenodo.org/badge/1066687214.svg)](https://doi.org/10.5281/zenodo.17237972)
 
 # canspin-deu-19
