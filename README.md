@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17237973.svg)](https://zenodo.org/badge/latestdoi/17237973)
+[![DOI](https://zenodo.org/badge/17237973.svg)](https://zenodo.org/badge/latestdoi/17237973)
 
 # canspin-deu-19
 CANSpiN corpus of 19th-century german language novels (1790-1920)
